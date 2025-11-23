@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>メールを送るためのページだよ</title>
+    <meta http-equiv="refresh" content="0; url=mailto:ns.kuwayama@gmail.com">
+</head>
+<body>
+    <h1>ちょっと待ってね！</h1>
+    <p>すぐにメール作成画面に切り替わるよ。</p>
+    <p>もし切り替わらなかったら、<a href="mailto:ns.kuwayama@gmail.com">ここをクリックしてね</a>。</p>
+</body>
+</html>
