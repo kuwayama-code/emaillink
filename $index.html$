@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>メールを送るためのページだよ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>メールアドレスへの自動転送</title>
+    
     <meta http-equiv="refresh" content="0; url=mailto:ns.kuwayama@gmail.com">
 </head>
 <body>
-    <h1>ちょっと待ってね！</h1>
-    <p>すぐにメール作成画面に切り替わるよ。</p>
-    <p>もし切り替わらなかったら、<a href="mailto:ns.kuwayama@gmail.com">ここをクリックしてね</a>。</p>
+    <h1>転送しています...</h1>
+    <p>数秒でメールクライアント（メールソフト）が起動します。</p>
+    <p>もし自動的に切り替わらない場合は、以下のリンクをクリックしてください。</p>
+    
+    <p>
+        <a href="mailto:ns.kuwayama@gmail.com">ns.kuwayama@gmail.com にメールを送る</a>
+    </p>
 </body>
 </html>
